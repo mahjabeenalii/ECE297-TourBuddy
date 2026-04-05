@@ -12,7 +12,7 @@ Users can click under search mode to search two streets and find the resulting i
 <h3> 2. Direction Mode </h3>
 Tourists can find the shortest path between two intersections to their destination. Once the ‘starting point’ and ‘destination’ are entered/clicked, an animated view of the shortest path will appear on the map. These animations are pausable. TourBuddy also allows users to click ‘show directions’ for clear & concise travel directions with intuitive icons per direction, even for those who may be unfamiliar with the city.
 
-![direction_mode1]()
+![direction_mode1](https://github.com/mahjabeenalii/ECE297-TourBuddy/blob/eabba8e7e270f2db29b88840986c0ab21d280c35/src/direction_mode1.png)
 ![direction_mode2]()
 
 <h3> 1. Easily recognizable icons </h3>
