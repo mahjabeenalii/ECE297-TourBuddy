@@ -30,7 +30,7 @@ Tourists can find the shortest path between two intersections to their destinati
 <h3> 4. Subway Mode </h3>
 Tour Buddy is also capable of displaying subway routes so tourists can navigate around the city on their own.
 
-![subway_mode]()
+![subway_mode](https://github.com/mahjabeenalii/ECE297-TourBuddy/blob/7fec3927292fb20cc8a3cf239d231cc9fd5e5eef/src/subway_mode.png)
 
 <h3> 5. Night Mode </h3>
 To reduce eye strain and improve readability, our team has implemented night mode… ultimately the same, intuitive map with a darker colour scheme.
