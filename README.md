@@ -4,6 +4,29 @@ TourBuddy is a GIS-based application designed to aid tourists in efficiently nav
 
 ## Key Features
 
-1. **Easily recognizable icons**
+<h3> 1. Search Mode </h3>
+Users can click under search mode to search two streets and find the resulting intersection.
+
+<h3> 2. Direction Mode </h3>
+
+<h3> 1. Easily recognizable icons </h3>
+   <ul>
+      <li>Subway Mode</li>
+      <li>Night Mode</li>
+      <li>Help Mode</li>
+      <li>Points of Interest (POIs) such as: </li>
+      <ul>
+         <li>Restaurants</li>
+         <li>Cafes</li>
+         <li>Banks</li>
+         <li>Entertainment</li>
+         <li>Tourist Attractions</li>
+         <li>Health Care</li>
+         <li>Sports</li>
+         <li>Shopping</li>
+      </ul>
+   </ul>
+   
    ![icons](https://github.com/mahjabeenalii/ECE297-TourBuddy/blob/0a081b7612c58a2429510fec2f46a6058b6ca906/src/icons.png)
-3. 
+
+<h3> 2. Easily recognizable icons </h3>
