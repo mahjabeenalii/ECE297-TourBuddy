@@ -35,4 +35,4 @@ Tour Buddy is also capable of displaying subway routes so tourists can navigate 
 <h3> 5. Night Mode </h3>
 To reduce eye strain and improve readability, our team has implemented night mode… ultimately the same, intuitive map with a darker colour scheme.
 
-![night_mode](()
+![night_mode](https://github.com/mahjabeenalii/ECE297-TourBuddy/blob/fa04ebf15f41ce77fad4835c4e3a53e3c125c6c4/src/night_mode.png)
