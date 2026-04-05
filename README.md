@@ -21,7 +21,8 @@ Tourists can find the shortest path between two intersections to their destinati
       <li>Subway Mode</li>
       <li>Night Mode</li>
       <li>Help Mode</li>
-      <li>Points of Interest (POIs) such as: </li>
+      <li>Points of Interest (POIs) such as Restaurants, Cafes, Banks, Entertainment, Tourist Attractions, Health Care, Sports, Shopping
+</li>
       <ul>
          <li>Restaurants</li>
          <li>Cafes</li>
@@ -34,6 +35,6 @@ Tourists can find the shortest path between two intersections to their destinati
       </ul>
    </ul>
    
-   ![icons](https://github.com/mahjabeenalii/ECE297-TourBuddy/blob/0a081b7612c58a2429510fec2f46a6058b6ca906/src/icons.png)
+   ![icons](https://github.com/mahjabeenalii/ECE297-TourBuddy/blob/5015c5d48f0b8fc921119f04b9992f4ca1552758/src/icons%2Bheatmap.png)
 
 <h3> 2. Easily recognizable icons </h3>
