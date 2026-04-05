@@ -2,6 +2,10 @@
 
 TourBuddy is a GIS-based application designed to aid tourists in efficiently navigating the intricacies of various cities with confidence. It does so by providing a custom-tailored experience and a vibrant social hub for connecting with fellow tourists. Leveraging Geographic Information Systems (GIS) technology, TourBuddy provides real-time information on attractions, such as restaurants, cafes, banks, tourist attractions, etc. 
 
+The slides for our OP1 is here! Check it out! <a href="https://docs.google.com/presentation/d/13UrnBQXqYBDQFBpF5XyFwEV9rWz1LPbatw1YjfQQKK4/edit?usp=sharing">PDF Available</a>
+
+The slides for our Final Oral Presentation(OP2) is here! Check it out! <a href="https://docs.google.com/presentation/d/17nArcfk7fPM1JCvSMcbV4GOyIX3u6yKUwZuFQTZmr2A/edit?usp=sharing">PDF Available</a>
+
 ## Key Features
 
 <h3> 1. Search Mode </h3>
