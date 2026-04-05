@@ -5,5 +5,5 @@ TourBuddy is a GIS-based application designed to aid tourists in efficiently nav
 ## Key Features
 
 1. **Easily recognizable icons**
-   
+   ![icons](https://github.com/mahjabeenalii/ECE297-TourBuddy/blob/0a081b7612c58a2429510fec2f46a6058b6ca906/src/icons.png)
 3. 
