@@ -6,6 +6,7 @@ TourBuddy is a GIS-based application designed to aid tourists in efficiently nav
 
 <h3> 1. Search Mode </h3>
 Users can click under search mode to search two streets and find the resulting intersection.
+![search_mode](
 
 <h3> 2. Direction Mode </h3>
 
