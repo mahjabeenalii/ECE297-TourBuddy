@@ -16,25 +16,23 @@ Tourists can find the shortest path between two intersections to their destinati
 
 ![direction_mode2](https://github.com/mahjabeenalii/ECE297-TourBuddy/blob/4e665bd220da4d5e199eae826f23aa95acccbcfb/src/direction_mode2.png)
 
-<h3> 1. Easily recognizable icons </h3>
+<h3> 3. Easily recognizable icons </h3>
    <ul>
       <li>Subway Mode</li>
       <li>Night Mode</li>
       <li>Help Mode</li>
       <li>Points of Interest (POIs) such as Restaurants, Cafes, Banks, Entertainment, Tourist Attractions, Health Care, Sports, Shopping
-</li>
-      <ul>
-         <li>Restaurants</li>
-         <li>Cafes</li>
-         <li>Banks</li>
-         <li>Entertainment</li>
-         <li>Tourist Attractions</li>
-         <li>Health Care</li>
-         <li>Sports</li>
-         <li>Shopping</li>
-      </ul>
+      <li>When clicked on the heat map, the user can visualize both the heatmap and icon. The biggest circle heatmap represents the area with the most of that specific poi icon. </li>
    </ul>
    
    ![icons](https://github.com/mahjabeenalii/ECE297-TourBuddy/blob/5015c5d48f0b8fc921119f04b9992f4ca1552758/src/icons%2Bheatmap.png)
 
-<h3> 2. Easily recognizable icons </h3>
+<h3> 4. Subway Mode </h3>
+Tour Buddy is also capable of displaying subway routes so tourists can navigate around the city on their own.
+
+![subway_mode]()
+
+<h3> 5. Night Mode </h3>
+To reduce eye strain and improve readability, our team has implemented night mode… ultimately the same, intuitive map with a darker colour scheme.
+
+![night_mode](()
